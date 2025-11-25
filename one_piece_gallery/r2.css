@@ -1,0 +1,44 @@
+.r2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.nami{
+    width: 150px;
+    border-radius: 250px;
+    height: 280px;
+    cursor: pointer;
+    transition: 0.25s;
+    box-shadow: 4px 15px 10px rgba(0, 0, 0,0.2);
+}
+.usopp{
+    width: 150px;
+    border-radius: 250px;
+    height: 280px;
+    cursor: pointer;
+    transition: 0.25s;
+    box-shadow: 4px 15px 10px rgba(0, 0, 0,0.2);
+}
+.robin{
+    width: 150px;
+    border-radius: 250px;
+    height: 280px;
+    cursor: pointer;
+    box-shadow: 4px 15px 10px rgba(0, 0, 0,0.2);
+    transition: 0.25s;
+}
+.nami:hover{
+    width:250px;
+    border-radius: 25px;
+}
+.usopp:hover{
+    width:250px;
+    border-radius: 25px;
+}
+.robin:hover{
+    width:250px;
+    border-radius: 25px;
+}
